@@ -1,0 +1,290 @@
+{
+  "conversations": [
+    {
+      "id": "conv_0001",
+      "customer_id": "user_4943",
+      "turns": [
+        {
+          "role": "customer",
+          "content": "番茄哪个品种产量高？",
+          "timestamp": "2026-05-03 01:44:42"
+        },
+        {
+          "role": "agent",
+          "content": "抱歉，这个具体的情况我还需要核实，稍后给您答复。",
+          "timestamp": "2026-05-03 01:48:42"
+        },
+        {
+          "role": "customer",
+          "content": "有没有更简单的方法？",
+          "timestamp": "2026-05-03 01:50:42"
+        },
+        {
+          "role": "agent",
+          "content": "好的，有其他问题随时联系！",
+          "timestamp": "2026-05-03 01:51:42"
+        }
+      ],
+      "start_time": "2026-05-03 01:44:42",
+      "end_time": "2026-05-03 01:51:42",
+      "resolved": false,
+      "satisfaction": 1,
+      "tags": [
+        "未解决",
+        "低满意度",
+        "知识缺口"
+      ]
+    },
+    {
+      "id": "conv_0002",
+      "customer_id": "user_1767",
+      "turns": [
+        {
+          "role": "customer",
+          "content": "番茄多久浇一次水？",
+          "timestamp": "2026-05-03 01:44:42"
+        },
+        {
+          "role": "agent",
+          "content": "番茄种植要点：\n1. 播种时间：春季3-4月，秋季7-8月\n2. 土壤要求：疏松肥沃，pH 6.0-6.8\n3. 光照：每天6-8小时直射光\n4. 浇水：保持土壤湿润，避免积水\n5. 施肥：定植后2周开始追肥，每2周一次",
+          "timestamp": "2026-05-03 01:46:42"
+        }
+      ],
+      "start_time": "2026-05-03 01:44:42",
+      "end_time": "2026-05-03 01:46:42",
+      "resolved": true,
+      "satisfaction": 4,
+      "tags": []
+    },
+    {
+      "id": "conv_0003",
+      "customer_id": "user_9835",
+      "turns": [
+        {
+          "role": "customer",
+          "content": "番茄和玉米可以一起种吗？",
+          "timestamp": "2026-05-03 01:44:42"
+        },
+        {
+          "role": "agent",
+          "content": "这个问题我帮您查一下...",
+          "timestamp": "2026-05-03 01:46:42"
+        }
+      ],
+      "start_time": "2026-05-03 01:44:42",
+      "end_time": "2026-05-03 01:46:42",
+      "resolved": false,
+      "satisfaction": 3,
+      "tags": [
+        "未解决",
+        "知识缺口"
+      ]
+    },
+    {
+      "id": "conv_0004",
+      "customer_id": "user_7359",
+      "turns": [
+        {
+          "role": "customer",
+          "content": "东北适合种什么番茄品种？",
+          "timestamp": "2026-05-03 01:44:42"
+        },
+        {
+          "role": "agent",
+          "content": "这个问题我帮您查一下...",
+          "timestamp": "2026-05-03 01:48:42"
+        },
+        {
+          "role": "customer",
+          "content": "需要买什么东西？",
+          "timestamp": "2026-05-03 01:49:42"
+        },
+        {
+          "role": "agent",
+          "content": "好的，有其他问题随时联系！",
+          "timestamp": "2026-05-03 01:50:42"
+        }
+      ],
+      "start_time": "2026-05-03 01:44:42",
+      "end_time": "2026-05-03 01:50:42",
+      "resolved": false,
+      "satisfaction": 3,
+      "tags": [
+        "未解决",
+        "知识缺口"
+      ]
+    },
+    {
+      "id": "conv_0005",
+      "customer_id": "user_6336",
+      "turns": [
+        {
+          "role": "customer",
+          "content": "番茄得了什么病，怎么治？",
+          "timestamp": "2026-05-03 01:44:42"
+        },
+        {
+          "role": "agent",
+          "content": "番茄种植要点：\n1. 播种时间：春季3-4月，秋季7-8月\n2. 土壤要求：疏松肥沃，pH 6.0-6.8\n3. 光照：每天6-8小时直射光\n4. 浇水：保持土壤湿润，避免积水\n5. 施肥：定植后2周开始追肥，每2周一次",
+          "timestamp": "2026-05-03 01:49:42"
+        },
+        {
+          "role": "customer",
+          "content": "具体怎么操作？",
+          "timestamp": "2026-05-03 01:52:42"
+        },
+        {
+          "role": "agent",
+          "content": "好的，有其他问题随时联系！",
+          "timestamp": "2026-05-03 01:53:42"
+        }
+      ],
+      "start_time": "2026-05-03 01:44:42",
+      "end_time": "2026-05-03 01:53:42",
+      "resolved": true,
+      "satisfaction": 4,
+      "tags": []
+    },
+    {
+      "id": "conv_0006",
+      "customer_id": "user_1223",
+      "turns": [
+        {
+          "role": "customer",
+          "content": "番茄哪个品种产量高？",
+          "timestamp": "2026-05-03 01:44:42"
+        },
+        {
+          "role": "agent",
+          "content": "您问的这个比较专业，我记录下来让技术同事给您回电可以吗？",
+          "timestamp": "2026-05-03 01:48:42"
+        },
+        {
+          "role": "customer",
+          "content": "有没有更简单的方法？",
+          "timestamp": "2026-05-03 01:50:42"
+        },
+        {
+          "role": "agent",
+          "content": "好的，有其他问题随时联系！",
+          "timestamp": "2026-05-03 01:53:42"
+        }
+      ],
+      "start_time": "2026-05-03 01:44:42",
+      "end_time": "2026-05-03 01:53:42",
+      "resolved": false,
+      "satisfaction": 2,
+      "tags": [
+        "未解决",
+        "低满意度",
+        "知识缺口"
+      ]
+    },
+    {
+      "id": "conv_0007",
+      "customer_id": "user_7259",
+      "turns": [
+        {
+          "role": "customer",
+          "content": "番茄需要什么样的土壤？",
+          "timestamp": "2026-05-03 01:44:42"
+        },
+        {
+          "role": "agent",
+          "content": "番茄种植要点：\n1. 播种时间：春季3-4月，秋季7-8月\n2. 土壤要求：疏松肥沃，pH 6.0-6.8\n3. 光照：每天6-8小时直射光\n4. 浇水：保持土壤湿润，避免积水\n5. 施肥：定植后2周开始追肥，每2周一次",
+          "timestamp": "2026-05-03 01:47:42"
+        },
+        {
+          "role": "customer",
+          "content": "好的，谢谢！",
+          "timestamp": "2026-05-03 01:49:42"
+        },
+        {
+          "role": "agent",
+          "content": "好的，有其他问题随时联系！",
+          "timestamp": "2026-05-03 01:50:42"
+        }
+      ],
+      "start_time": "2026-05-03 01:44:42",
+      "end_time": "2026-05-03 01:50:42",
+      "resolved": true,
+      "satisfaction": 4,
+      "tags": []
+    },
+    {
+      "id": "conv_0008",
+      "customer_id": "user_7424",
+      "turns": [
+        {
+          "role": "customer",
+          "content": "番茄从种到收要多久？",
+          "timestamp": "2026-05-03 01:44:42"
+        },
+        {
+          "role": "agent",
+          "content": "番茄种植要点：\n1. 播种时间：春季3-4月，秋季7-8月\n2. 土壤要求：疏松肥沃，pH 6.0-6.8\n3. 光照：每天6-8小时直射光\n4. 浇水：保持土壤湿润，避免积水\n5. 施肥：定植后2周开始追肥，每2周一次",
+          "timestamp": "2026-05-03 01:47:42"
+        },
+        {
+          "role": "customer",
+          "content": "需要买什么东西？",
+          "timestamp": "2026-05-03 01:48:42"
+        },
+        {
+          "role": "agent",
+          "content": "好的，有其他问题随时联系！",
+          "timestamp": "2026-05-03 01:53:42"
+        }
+      ],
+      "start_time": "2026-05-03 01:44:42",
+      "end_time": "2026-05-03 01:53:42",
+      "resolved": true,
+      "satisfaction": 1,
+      "tags": [
+        "低满意度"
+      ]
+    },
+    {
+      "id": "conv_0009",
+      "customer_id": "user_2401",
+      "turns": [
+        {
+          "role": "customer",
+          "content": "番茄什么时候播种比较好？",
+          "timestamp": "2026-05-03 01:44:42"
+        },
+        {
+          "role": "agent",
+          "content": "番茄种植要点：\n1. 播种时间：春季3-4月，秋季7-8月\n2. 土壤要求：疏松肥沃，pH 6.0-6.8\n3. 光照：每天6-8小时直射光\n4. 浇水：保持土壤湿润，避免积水\n5. 施肥：定植后2周开始追肥，每2周一次",
+          "timestamp": "2026-05-03 01:48:42"
+        }
+      ],
+      "start_time": "2026-05-03 01:44:42",
+      "end_time": "2026-05-03 01:48:42",
+      "resolved": true,
+      "satisfaction": 5,
+      "tags": []
+    },
+    {
+      "id": "conv_0010",
+      "customer_id": "user_3230",
+      "turns": [
+        {
+          "role": "customer",
+          "content": "番茄多久浇一次水？",
+          "timestamp": "2026-05-03 01:44:42"
+        },
+        {
+          "role": "agent",
+          "content": "番茄种植要点：\n1. 播种时间：春季3-4月，秋季7-8月\n2. 土壤要求：疏松肥沃，pH 6.0-6.8\n3. 光照：每天6-8小时直射光\n4. 浇水：保持土壤湿润，避免积水\n5. 施肥：定植后2周开始追肥，每2周一次",
+          "timestamp": "2026-05-03 01:48:42"
+        }
+      ],
+      "start_time": "2026-05-03 01:44:42",
+      "end_time": "2026-05-03 01:48:42",
+      "resolved": true,
+      "satisfaction": 5,
+      "tags": []
+    }
+  ]
+}
